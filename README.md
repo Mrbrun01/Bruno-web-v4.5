@@ -2,7 +2,7 @@
 
 Bruno reúne **21 herramientas** para estudiar, practicar, calcular, jugar y entretenerse, todas en un mismo sitio, con el mismo menú y el mismo aspecto. No hace falta instalar nada ni crear una cuenta.
 
-![Página de inicio de Bruno](capturas/inicio.png)
+
 
 ## Qué puedes hacer
 
