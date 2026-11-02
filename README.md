@@ -62,7 +62,6 @@ Pulsa tu nombre en la parte superior del menú. Los cambios se aplican al moment
 | **Barra lateral** | Fija; contraída (solo iconos); o contraída y se abre al pasar el cursor. |
 | **Sonido** | Activa o desactiva el sonido al pulsar botones. |
 
-![La misma herramienta en tres estilos distintos](capturas/estilos.png)
 
 ---
 
@@ -135,7 +134,6 @@ Los juegos para varias personas se juegan **en el mismo dispositivo**.
 
 En Blackjack, Tute y Póker, **cada asiento puede ser una persona o la máquina**: puedes jugar contra la IA, con amigos o mezclando ambos. Las fichas son de mentira y no se guardan. Cada mesa tiene su apartado *Reglas de esta mesa*.
 
-![Una mesa de Blackjack en El Tapete](capturas/el-tapete.png)
 
 ### Vídeo y búsqueda
 
@@ -195,9 +193,6 @@ Si prefieres no dibujar, la pestaña *Elegir de la lista* ofrece una colección 
 
 > **Consejo.** Dibuja formas sencillas y grandes, de uno o dos trazos. Los iconos se ven pequeños en el menú y los detalles finos no se aprecian.
 
-![El editor de iconos: el dibujo se corrige al soltar el trazo](capturas/editor-iconos.png)
-
-![La herramienta aparece en el menú con su icono](capturas/mis-herramientas.png)
 
 ### 4. Gestiona tus herramientas
 
